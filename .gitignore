@@ -1,0 +1,10 @@
+!*/.gitkeep
+
+#OS specific
+.DS_Store
+
+#text swap files
+*.swp
+
+# Sublime Projects
+*.sublime-workspace
